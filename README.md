@@ -11,12 +11,12 @@ This repo contains simple Terraform Configuration with `null_resource` provider 
 
 1. Clone locally:
 ```
-git clone https://github.com/51r/Terraform-local-backend.git
+git clone https://github.com/51r/terraform-local-backend.git
 ```
 
 2. Make sure that you are in the root directory:
 ```
-cd Terraform-local-backend
+cd terraform-local-backend
 ```
 
 3. Apply the plan:
